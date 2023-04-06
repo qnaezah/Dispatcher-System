@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.mainDiv .row {
+    margin: 20px;
+    align-items: center;
+}
+
+hr {
+    color: #aaa !important;
+}
+
+.modal.show .modal-dialog {
+    max-width: 800px;
+    text-align: left;
+}
